@@ -3,6 +3,7 @@ package com.shsxt.servlet;
 public class User {
 
     private String name;
+
     private int age;
 
     public String getName() {
